@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://project/homepage/</loc>
+         <loc>https://terrabits.github.io/mkdocs-material-boilerplate/</loc>
          <lastmod>2021-11-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://project/homepage/api-reference/</loc>
+         <loc>https://terrabits.github.io/mkdocs-material-boilerplate/api-reference/</loc>
          <lastmod>2021-11-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://project/homepage/license/</loc>
+         <loc>https://terrabits.github.io/mkdocs-material-boilerplate/license/</loc>
          <lastmod>2021-11-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://project/homepage/examples/advanced-example/</loc>
+         <loc>https://terrabits.github.io/mkdocs-material-boilerplate/examples/advanced-example/</loc>
          <lastmod>2021-11-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://project/homepage/examples/basic-example/</loc>
+         <loc>https://terrabits.github.io/mkdocs-material-boilerplate/examples/basic-example/</loc>
          <lastmod>2021-11-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://project/homepage/getting-started/basic-usage/</loc>
+         <loc>https://terrabits.github.io/mkdocs-material-boilerplate/getting-started/basic-usage/</loc>
          <lastmod>2021-11-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://project/homepage/getting-started/clone-project/</loc>
+         <loc>https://terrabits.github.io/mkdocs-material-boilerplate/getting-started/clone-project/</loc>
          <lastmod>2021-11-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://project/homepage/getting-started/installation/</loc>
+         <loc>https://terrabits.github.io/mkdocs-material-boilerplate/getting-started/installation/</loc>
          <lastmod>2021-11-03</lastmod>
          <changefreq>daily</changefreq>
     </url>

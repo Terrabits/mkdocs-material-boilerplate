@@ -2,14 +2,14 @@
 site_name:                     "Project Name"
 site_description:              "Project Name does useful things"
 site_author:                   "Author"
-site_url:                      "https://project/homepage"
+site_url:                      "https://terrabits.github.io/mkdocs-material-boilerplate/"
 
 # Copyright
 copyright:                     "&copy; Author"
 
 # Repository
 repo_name:                     "Project Name"
-repo_url:                      "https://project/homepage"
+repo_url:                      "https://github.com/Terrabits/mkdocs-material-boilerplate"
 
 # Configuration
 docs_dir:                      "mkdocs"

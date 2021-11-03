@@ -1,28 +1,8 @@
-# Project Name
+# mkdocs-material-boilerplate
 
-## Quick start
+Adapted from Github peaceiris/mkdocs-material-boilerplate, with different goals:
 
-```shell
-# clone Project Name
-git clone
-
-# install
-pip install ...
-
-# start
-python ...
-```
-
-For additional resources, see [Getting Started](getting-started/clone-project.md).
-
-## Links
-
-Project-related links and references go here.
-
-## About Maintainer
-
-Contact information goes here.
-
-## License
-
-Project Name is governed by [License Name](license.md).
+- Remove parts that are not strictly necessary
+- focus on python documentation with api reference
+- build docs in same branch alongside current code: mkautodoc needs to import python library
+- developer `scripts/` provided; these can be used directly or as a reference when setting up Continuous Integration.

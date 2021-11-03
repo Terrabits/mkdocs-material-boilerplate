@@ -1,0 +1,69 @@
+# Project information
+site_name:                     "Project Name"
+site_description:              "Project Name does useful things"
+site_author:                   "Author"
+site_url:                      "https://project/homepage"
+
+# Copyright
+copyright:                     "&copy; Author"
+
+# Repository
+repo_name:                     "Project Name"
+repo_url:                      "https://project/homepage"
+
+# Configuration
+docs_dir:                      "mkdocs"
+site_dir:                      "docs"
+theme:
+  name:                        "material"
+  language:                    "en"
+  shortcuts:
+    help:                      191  # ?
+    next:                       78  # (n)ext
+    previous:                   80  # (p)revious
+    search:                     83  # (s)earch
+  palette:
+    primary:                   "blue"
+    accent:                    "blue"
+  features:
+    - navigation.instant
+    - navigation.tracking
+
+# Extensions
+markdown_extensions:
+  - footnotes
+  - mkautodoc
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.superfences
+  - pymdownx.snippets
+  - toc:
+      permalink:               true
+      separator:               "_"
+plugins:
+  - search:
+      separator:               '[\s\-\.]+'
+      lang:
+        - en
+
+# Style
+extra_css:
+  - "assets/css/custom.css"
+
+# Manifest
+extra:
+  generator:                   false
+  manifest:                    "manifest.json"
+
+# Navigation
+nav:
+  - "Home":                    "index.md"
+  - "Getting started":
+      - "Clone Project":       "getting-started/clone-project.md"
+      - "Installation":        "getting-started/installation.md"
+      - "Basic Usage":         "getting-started/basic-usage.md"
+  - "Examples":
+      - "Basic Example":       "examples/basic-example.md"
+      - "Advanced Example":    "examples/advanced-example.md"
+  - "API Reference":           "api-reference.md"
+  - "License":                 "license.md"
